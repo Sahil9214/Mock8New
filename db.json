@@ -1,0 +1,106 @@
+{
+    "forum": [
+      {
+        "id": 1,
+        "question": {
+          "userAvatar": "https://avatars.githubusercontent.com/u/106021674?v=4",
+          "username": "Utkarsh Singhal",
+          "questionTitle": "How to sort an array in JavaScript?",
+          "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+          "language": "JavaScript",
+          "upvotes": 15,
+          "answers": 3,
+          "postedDate": "2023-05-30"
+        },
+        "answers": [
+          {
+            "userAvatar": "user_avatar2.png",
+            "username": "JaneSmith456",
+            "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
+            "postedDate": "2023-05-31"
+          },
+          {
+            "userAvatar": "user_avatar3.png",
+            "username": "SamJohnson789",
+            "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
+            "postedDate": "2023-06-01"
+          },
+          {
+            "userAvatar": "user_avatar4.png",
+            "username": "EmilyBrownXYZ",
+            "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
+            "postedDate": "2023-06-01"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": {
+          "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fHww&w=1000&q=80",
+          "username": "bhumi",
+          "questionTitle": "How to sort an array in JavaScript?",
+          "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+          "language": "JavaScript",
+          "upvotes": 10,
+          "answers": 3,
+          "postedDate": "2023-05-30"
+        },
+        "answers": [
+          {
+            "userAvatar": "user_avatar2.png",
+            "username": "JaneSmith456",
+            "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
+            "postedDate": "2023-05-31"
+          },
+          {
+            "userAvatar": "user_avatar3.png",
+            "username": "SamJohnson789",
+            "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
+            "postedDate": "2023-06-01"
+          },
+          {
+            "userAvatar": "user_avatar4.png",
+            "username": "EmilyBrownXYZ",
+            "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
+            "postedDate": "2023-06-01"
+          }
+        ]
+      },
+      {
+        "question": {
+          "userAvatar": "https://media.istockphoto.com/id/665103962/photo/outdoor-boy-portrait.jpg?s=612x612&w=0&k=20&c=7Gr9gG69VGtVjub45gsroBbOdOpNoxbIBRQZuO4vam8=",
+          "username": "kunajn",
+          "questionTitle": "what is clouser",
+          "questionDescription": "closure is bundle of js",
+          "language": "Java",
+          "upvotes": 13,
+          "answers": 3,
+          "postedDate": 1685779996299
+        },
+        "id": 4
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Utkarsh Singhal",
+        "email": "utkarshsinghal123@gmail.com",
+        "password": "utkarsh123",
+        "image": "https://avatars.githubusercontent.com/u/106021674?v=4"
+      },
+      {
+        "name": "bhumi",
+        "email": "bhumi123@gmail.com",
+        "password": "bhumi123",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fHww&w=1000&q=80",
+        "id": 3
+      },
+      {
+        "name": "kunajn",
+        "email": "kunjan123@gmail.com",
+        "password": "kunjan123",
+        "image": "https://media.istockphoto.com/id/665103962/photo/outdoor-boy-portrait.jpg?s=612x612&w=0&k=20&c=7Gr9gG69VGtVjub45gsroBbOdOpNoxbIBRQZuO4vam8=",
+        "id": 5
+      }
+    ]
+  }
